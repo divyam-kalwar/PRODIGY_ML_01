@@ -37,3 +37,4 @@ The models are evaluated using cross-validation, and R-squared scores are calcul
 # Submission
 The predictions are then saved in a CSV file named "submission.csv," which can be submitted to a competition or used for further analysis.
 
+### Note : Hosue_Price2 is done using only linear regression.
